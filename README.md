@@ -26,4 +26,3 @@ Este repositório apresenta um caso prático de automação de processos usando 
 Este script é apenas um exemplo. Certifique-se de personalizá-lo para atender às necessidades específicas do seu caso. 
 
 * *By: Stefany Gracy 💛*
-# rpa-file-automation
